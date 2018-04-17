@@ -1,0 +1,10 @@
+@font-face {
+	font-family: GanjNamehSans-Regular;
+	font-style: normal;
+	font-weight: 400;
+	src: url('../fonts/GanjNamehSans-Regular.eot');
+	src: url('../fonts/GanjNamehSans-Regular.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+		 url('../fonts/GanjNamehSans-Regular.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/GanjNamehSans-Regular.ttf') format('truetype');
+}
+
